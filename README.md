@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills (In Progress)
-- C Programming
+- C Programming 
 - Basic HTML & CSS (exploring web development soon)
 - Git & GitHub  
 
