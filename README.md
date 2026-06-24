@@ -23,7 +23,7 @@
 
 ## 📂 Projects (Beginner Level)
 - **Simple Calculator in C** – performs basic arithmetic operations  
-- **Number Series Generator** – prints series like `1/1, 1/2, 1/3 ... 1/n`   
+- **Number Series Generator** – prints series like `1/1, 1/2, 1/3 ... 1/n`  
 - **Guess the Number Game** – a fun console-based project   
 
 ---
