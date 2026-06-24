@@ -12,7 +12,7 @@
 - Git & GitHub for version control
 - Exploring how developers collaborate worldwide
 
---- 
+---
 
 ## 🛠️ Skills (In Progress)
 - C Programming 
