@@ -23,7 +23,7 @@
 
 ## 📂 Projects (Beginner Level)
 - **Simple Calculator in C** – performs basic arithmetic operations
-- **Number Series Generator** – prints series like `1/1, 1/2, 1/3 ... 1/n`  
+- **Number Series Generator** – prints series like `1/1, 1/2, 1/3 ... 1/n` 
 - **Guess the Number Game** – a fun console-based project   
 
 ---
@@ -32,13 +32,13 @@
 - Strengthen my coding fundamentals    
 - Build real-world projects step by step  
 - Contribute to open-source in the future  
-- Become a developer who solves meaningful problems  
+- Become a developer who solves meaningful problems 
 
 ---
 
 ## 🌍 Let's Connect
 - 💬 I’m open to guidance, collaboration, and learning from experienced developers  
-- 📫 Reach me at: [your-email@example.com]  
+- 📫 Reach me at: [itsaadityasingh10@gmail.com]  
 - 🌟 Check out my projects here on GitHub and feel free to share feedback!  
 
 ---   
