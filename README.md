@@ -41,6 +41,6 @@
 - 📫 Reach me at: [itsaadityasingh10@gmail.com]  
 - 🌟 Check out my projects here on GitHub and feel free to share feedback!  
 
----  
+--- 
 
 ✨ *"Every expert was once a beginner. I’m excited to start my journey in the developer’s world!"*
