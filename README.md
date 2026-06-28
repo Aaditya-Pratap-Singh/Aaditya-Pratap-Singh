@@ -31,7 +31,7 @@
 ## 🎯 Goals
 - Strengthen my coding fundamentals
 - Build real-world projects step by step
-- Contribute to open-source in the future  
+- Contribute to open-source in the future
 - Become a developer who solves meaningful problems 
 
 ---
