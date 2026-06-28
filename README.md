@@ -39,7 +39,7 @@
 ## 🌍 Let's Connect
 - 💬 I’m open to guidance, collaboration, and learning from experienced developers  
 - 📫 Reach me at: [itsaadityasingh10@gmail.com]  
-- 🌟 Check out my projects here on GitHub and feel free to share feedback!  
+- 🌟 Check out my projects here on GitHub and feel free to share feedback!
 
 --- 
 
