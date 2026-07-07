@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aaditya Pratap Singh 
 
 🎓 Just completed 12th grade and stepping into the exciting world of coding!  
-💻 Currently learning **C programming** and building my foundation in computer science.   
+💻 Currently learning **C programming** and building my foundation in computer science.    
 🚀 Ambition: To grow into a skilled developer and explore the vast developer community.  
 
 ---
