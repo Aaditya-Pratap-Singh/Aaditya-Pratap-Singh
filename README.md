@@ -10,7 +10,7 @@
 - Basics of **C programming** (loops, arrays, functions, pointers, recursion)
 - Problem-solving and logical thinking
 - Git & GitHub for version control
-- Exploring how developers collaborate worldwide
+- Exploring how developers collaborate worldwide 
 
 ---
 
