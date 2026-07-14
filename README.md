@@ -6,7 +6,7 @@
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Learning 
 - Basics of **C programming** (loops, arrays, functions, pointers, recursion)
 - Problem-solving and logical thinking
 - Git & GitHub for version control
