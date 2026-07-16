@@ -4,7 +4,7 @@
 💻 Currently learning **C programming** and building my foundation in computer science.    
 🚀 Ambition: To grow into a skilled developer and explore the vast developer community.  
 
----
+--- 
 
 ## 🌱 What I'm Learning 
 - Basics of **C programming** (loops, arrays, functions, pointers, recursion)
