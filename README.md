@@ -1,46 +1,56 @@
-#  Hi, I'm Aaditya Pratap Singh 
+<div align="center">
 
-🎓 Just completed 12th grade and stepping into the exciting world of coding! 
-💻 Currently learning **C programming** and building my foundation in computer science.     
-🚀 Ambition: To grow into a skilled developer and explore the vast developer community.  
- 
---- 
+  <!-- Dynamic Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0A0E17,100:00E5FF&height=220&section=header&text=Aaditya%20Pratap%20Singh&fontSize=42&fontColor=00E5FF&animation=twinkle" width="100%" />
 
-## 🌱 What I'm Learning 
-- Basics of **C programming** (loops, arrays, functions, pointers, recursion)
-- Problem-solving and logical thinking
-- Git & GitHub for version control
-- Exploring how developers collaborate worldwide 
- 
----
+  <h3>🎓 CSE Student @ Sri Aurobindo Institute of Technology</h3>
+  <p><i>Building strong foundations in computer science & exploring modern tech.</i></p>
 
-## 🛠️ Skills (In Progress)
-- C Programming 
-- Basic HTML & CSS (exploring web development soon) 
-- Git & GitHub
+  <!-- Skill Badges -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
 
----
-
-## 📂 Projects (Beginner Level)
-- **Simple Calculator in C** – performs basic arithmetic operations
-- **Number Series Generator** – prints series like `1/1, 1/2, 1/3 ... 1/n` 
-- **Guess the Number Game** – a fun console-based project 
+</div>
 
 ---
 
-## 🎯 Goals
-- Strengthen my coding fundamentals
-- Build real-world projects step by step
-- Contribute to open-source in the future 
-- Become a developer who solves meaningful problems 
- 
----
+## ⚡ System Overview
 
-## 🌍 Let's Connect
-- 💬 I’m open to guidance, collaboration, and learning from experienced developers  
-- 📫 Reach me at: [itsaadityasingh10@gmail.com]
-- 🌟 Check out my projects here on GitHub and feel free to share feedback!
-
---- 
-
-✨ *"Every expert was once a beginner. I’m excited to start my journey in the developer’s world!"* 
+```text
+===========================================================
+[USER_ID]      : Aaditya Pratap Singh
+[ACADEMICS]    : 1st Year B.Tech — Computer Science & Engineering
+[INSTITUTE]    : Sri Aurobindo Institute of Technology
+[STATUS]       : Leveling Up Core Fundamentals 
+===========================================================
+🎯 Tech Arsenal & Roadmap
+🟢 Mastered Core: C Language
+⏳ Currently Learning: Python | C++
+🎯 Upcoming Goals: Data Structures & Algorithms (DSA) | Database Management Systems (DBMS)
+🐍 Contribution Graph Matrix
+<div align="center">
+<!-- Snake Eating Contributions Animation -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+📊 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singhe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<div align="center">
+<sub>Designed with ⚡ by Aaditya Pratap Singh</sub>
+</div>
