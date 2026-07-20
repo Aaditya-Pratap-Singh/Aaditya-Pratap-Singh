@@ -59,8 +59,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstme-anuraghazru.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
