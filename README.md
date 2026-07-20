@@ -31,7 +31,7 @@
 [USER_ID]      : Aaditya Pratap Singh
 [ACADEMICS]    : 1st Year B.Tech — Computer Science & Engineering
 [INSTITUTE]    : Sri Aurobindo Institute of Technology
-[STATUS]       : Leveling Up Core Fundamentals 
+[STATUS]       : Leveling Up Core Fundamentals 🚀
 ===========================================================
 🎯 Tech Arsenal & Roadmap
 🟢 Mastered Core: C Language
@@ -49,7 +49,7 @@
 📊 GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singhe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <div align="center">
 <sub>Designed with ⚡ by Aaditya Pratap Singh</sub>
