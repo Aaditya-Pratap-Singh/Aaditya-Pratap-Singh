@@ -26,31 +26,45 @@
 
 ## ⚡ System Overview
 
-```text
-===========================================================
-[USER_ID]      : Aaditya Pratap Singh
-[ACADEMICS]    : 1st Year B.Tech — Computer Science & Engineering
-[INSTITUTE]    : Sri Aurobindo Institute of Technology
-[STATUS]       : Leveling Up Core Fundamentals 🚀
-===========================================================
-🎯 Tech Arsenal & Roadmap
-🟢 Mastered Core: C Language
-⏳ Currently Learning: Python | C++
-🎯 Upcoming Goals: Data Structures & Algorithms (DSA) | Database Management Systems (DBMS)
-🐍 Contribution Graph Matrix
+- 👤 **USER ID**: Aaditya Pratap Singh
+- 🎓 **ACADEMICS**: 1st Year B.Tech — Computer Science & Engineering
+- 🏫 **INSTITUTE**: Sri Aurobindo Institute of Technology
+- 🚀 **STATUS**: Leveling Up Core Fundamentals
+
+---
+
+## 🎯 Tech Arsenal & Roadmap
+
+* 🟢 **Mastered Core**: `C Language`
+* ⏳ **Currently Learning**: `Python` | `C++`
+* 🎯 **Upcoming Goals**: `Data Structures & Algorithms (DSA)` | `Database Management Systems (DBMS)`
+
+---
+
+## 🐍 Contribution Graph Matrix
+
 <div align="center">
-<!-- Snake Eating Contributions Animation -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
-</picture>
+
+  <!-- Snake Eating Contributions Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+  </picture>
+
 </div>
-📊 GitHub Analytics
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
+---
+
 <div align="center">
-<sub>Designed with ⚡ by Aaditya Pratap Singh</sub>
+  <sub>Designed with ⚡ by Aaditya Pratap Singh</sub>
 </div>
