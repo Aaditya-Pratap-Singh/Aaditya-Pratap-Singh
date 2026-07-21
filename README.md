@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
