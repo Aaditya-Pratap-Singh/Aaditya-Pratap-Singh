@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ System Overview
+##  System Overview
 
 - 👤 **USER ID**: Aaditya Pratap Singh
 - 🎓 **ACADEMICS**: 1st Year B.Tech — Computer Science & Engineering
