@@ -41,7 +41,7 @@
 
 ---
 
-## 🐍 Contribution Graph Matrix
+##  Contribution Graph Matrix
 
 <div align="center">
 
