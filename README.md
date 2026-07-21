@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Tech Arsenal & Roadmap
+##  Tech Arsenal & Roadmap
 
 * 🟢 **Mastered Core**: `C Language`
 * ⏳ **Currently Learning**: `Python` | `C++`
