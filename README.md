@@ -1,66 +1,88 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0A0E17,100:00E5FF&height=220&section=header&text=Aaditya%20Pratap%20Singh&fontSize=42&fontColor=00E5FF&animation=twinkle" width="100%" />
-
-  <h3>🎓 CSE Student @ Sri Aurobindo Institute of Technology</h3>
-  <p><i>Building strong foundations in computer science & exploring modern tech.</i></p>
-
-  <!-- Skill Badges -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
+  <!-- Cyber Teal Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:004D40&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00E5FF&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00E5FF" width="100%" />
 
 </div>
 
 ---
 
-##  System Overview
-
-- 👤 **USER ID**: Aaditya Pratap Singh
-- 🎓 **ACADEMICS**: 1st Year B.Tech — Computer Science & Engineering
-- 🏫 **INSTITUTE**: Sri Aurobindo Institute of Technology
-- 🚀 **STATUS**: Leveling Up Core Fundamentals
+### <p align="center"><code><font color="#00E5FF">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
 
 ---
 
-##  Tech Arsenal & Roadmap
+## 🚀 About Me
 
-* 🟢 **Mastered Core**: `C Language`
-* ⏳ **Currently Learning**: `Python` | `C++`
-* 🎯 **Upcoming Goals**: `Data Structures & Algorithms (DSA)` | `Database Management Systems (DBMS)`
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      I'm a <b>Computer Science & Engineering Student</b> passionate about building software foundations, solving logic problems, and exploring modern tech.<br/><br/>
+      Currently focusing on:
+      <ul>
+        <li><b>C & C++ Programming</b></li>
+        <li><b>Data Structures & Algorithms</b></li>
+        <li><b>Database Management Systems (SQL)</b></li>
+        <li><b>Git & GitHub Workflows</b></li>
+      </ul>
+      <br/>
+      <i>"Turning complex problems into clean, efficient code."</i>
+    </td>
+    <td width="40%" align="center">
+      <!-- Cyber Programmer GIF -->
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-##  Contribution Graph Matrix
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-  <!-- Snake Eating Contributions Animation -->
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
   </picture>
-
 </div>
 
 ---
 
-##  GitHub Analytics
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
-  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
+  <a href="https://github.com/Aaditya-Pratap-Singh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
 </div>
 
 <br/>
@@ -72,5 +94,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ⚡ by Aaditya Pratap Singh</sub>
+  <sub><code>CODE . LEARN . BUILD . REPEAT</code></sub>
 </div>
