@@ -1,63 +1,98 @@
 <div align="center">
 
-█████╗  █████╗ ██████╗ ██╗████████╗██╗   ██╗██████╗
-██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-███████║███████║██║  ██║██║   ██║    ╚████╔╝ ██████╔╝
-██╔══██║██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔═══╝
-██║  ██║██║  ██║██████╔╝██║   ██║      ██║   ██║
-
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝
-
-
-  <!-- Neon Glowing Header Line -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider">
-
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=600&height=50&lines=%3E_SYSTEM_STATUS%3A+ONLINE;1st+Year+CS+Student+%40+SAIT;Exploring+C%2B%2B+%7C+Python+%7C+DSA;Building+Strong+Core+Computer+Science+Foundations" alt="Typing SVG" />
-  </a>
-
-  <!-- Terminal Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SYSTEM_ACTIVE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black" alt="Status"/>
-    <img src="https://img.shields.io/badge/INSTITUTE-SAIT_INDORE-FF0055?style=for-the-badge&logo=micro-dot-blog&logoColor=white" alt="Institute"/>
-    <img src="https://img.shields.io/badge/YEAR-1st_YEAR-00E5FF?style=for-the-badge&logo=expensify&logoColor=black" alt="Year"/>
-  </p>
-
-  <!-- Visitor Counter Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AadityaPratapSingh&color=00ff66&style=flat-square&label=TERMINAL+ACCESS_COUNT" alt="Visitor Counter"/>
-  </p>
+  <!-- Cyber Teal Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:004D40&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00E5FF&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00E5FF" width="100%" />
 
 </div>
 
 ---
 
-## ⚡ [0x01] // ROOT_SYSTEM_BIO
+### <p align="center"><code><font color="#00E5FF">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
 
-```sys
-[USER@CYBERDECK ~]$ cat about_me.json
-{
-  "Identity": "Aaditya Pratap Singh",
-  "Affiliation": "Sri Aurobindo Institute of Technology (SAIT)",
-  "Current_Stage": "1st Year Engineering Student",
-  "Core_Focus": ["Data Structures & Algorithms", "Database Management Systems"],
-  "Status": "Grinding C++ and Python syntax to build robust computational logic."
-}
-SYSTEM_OBJECTIVE: Transitioning from procedural foundations to master algorithmic efficiency, object-oriented design, and database architectures.
+---
 
-🛠️ [0x02] // TECH_MATRIX
-💻 System Languages & Stack
-🧠 Core Computer Science Concepts
-📈 [0x03] // CONTRIBUTION_GRAPH
-🐍 [0x04] // SNAKE_EFFECT_ANIMATION
-📊 [0x05] // GIT_SYSTEM_ANALYSIS
-⚙️ [0x06] // CURRENT_EXECUTION_STACK
-YAML
-Execution_Loop:
-  Active_Task: "Deep diving into C++ Object-Oriented Concepts & Memory Management"
-  DSA_Progress: "Array, Linked Lists, Stack, Queue & Recursion Traversal"
-  DBMS_Focus: "Relational Algebra, ER Models & SQL Query Optimization"
-  Target_Goal: "Crack high-level problem solving on LeetCode & build full-scale applications"
-🌐 [0x07] // CONNECT_TERMINAL
->_ "Talk is cheap. Show me the code." - Linus Torvalds
+## 🚀 About Me
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      I'm a <b>Computer Science & Engineering Student</b> passionate about building software foundations, solving logic problems, and exploring modern tech.<br/><br/>
+      Currently focusing on:
+      <ul>
+        <li><b>C & C++ Programming</b></li>
+        <li><b>Data Structures & Algorithms</b></li>
+        <li><b>Database Management Systems (SQL)</b></li>
+        <li><b>Git & GitHub Workflows</b></li>
+      </ul>
+      <br/>
+      <i>"Turning complex problems into clean, efficient code."</i>
+    </td>
+    <td width="40%" align="center">
+      <!-- Cyber Programmer GIF -->
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Aaditya-Pratap-Singh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
+</div>
+
+---
+
+<div align="center">
+  <sub><code>CODE . LEARN . BUILD . REPEAT</code></sub>
+</div>
