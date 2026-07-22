@@ -1,50 +1,43 @@
 <div align="center">
 
-  <!-- Fixed Name Header + Dynamic Typing Subtitle -->
-  <a href="https://github.com/Aaditya-Pratap-Singh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=110&lines=AADITYA+PRATAP+SINGH;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SOLUTIONS+.+CREATING+IMPACT" alt="Header Banner" />
-  </a>
+  <!-- Fixed Cyberpunk Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:004D40,100:00E5FF&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20STUDENT%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=70&descColor=00E5FF" width="100%" />
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CODE-00FF66?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/LEARN-00FF66?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/BUILD-00FF66?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/REPEAT-00FF66?style=for-the-badge&logoColor=black" />
-</div>
+### <p align="center"><code><font color="#00E5FF">⚡ Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
 
 ---
 
-### <p align="center"><code><font color="#00FF66">⚡ Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
+## 🚀 System Overview
+
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <br/>
+      I'm a <b>Computer Science & Engineering Student</b> focused on building high-performance logic, strong fundamentals, and scalable software.<br/><br/>
+      <b>Core Competencies:</b>
+      <ul>
+        <li><code>C & C++ Programming</code></li>
+        <li><code>Data Structures & Algorithms</code></li>
+        <li><code>Database Management Systems (SQL)</code></li>
+        <li><code>Git & GitHub Workflows</code></li>
+      </ul>
+      <br/>
+      <i>"Turning complex logic into clean, efficient code."</i>
+    </td>
+    <td width="45%" align="center">
+      <!-- High Quality Hacker GIF -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXgzeGN2ZWRreHRwb3p2ZXVqYTZicWg3ZjR4Y3E4OHltOTZ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u23zXevmA9C3C/giphy.gif" width="100%" style="border-radius:12px; border: 2px solid #00E5FF;" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 About Me
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtN3J5Ymh0enEwMmdzNng1bzE4aDZzeGFnd2J6ZnRpdjJvZnk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PP93838/giphy.gif" width="38%" align="right" style="border-radius: 8px;" />
-</p>
-
-I'm an aspiring **Software Engineer** with a strong interest in programming, problem-solving, and core tech.
-
-**Currently Strengthening:**
-* 🟢 **C & C++ Programming**
-* 🟢 **Data Structures & Algorithms**
-* 🟢 **Database Management Systems (SQL)**
-* 🟢 **Git & GitHub Workflows**
-
-<br/>
-
-> *"Driven by curiosity and committed to building clean logic."*
-
-<br clear="all" />
-
----
-
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Arsenal & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -57,7 +50,7 @@ I'm an aspiring **Software Engineer** with a strong interest in programming, pro
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -85,17 +78,17 @@ I'm an aspiring **Software Engineer** with a strong interest in programming, pro
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00FF66&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00FF66&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=dark&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 
 ---
