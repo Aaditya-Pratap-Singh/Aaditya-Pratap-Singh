@@ -1,39 +1,35 @@
 <div align="center">
 
-  <!-- Cyber Teal Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:004D40&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00E5FF&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00E5FF" width="100%" />
+  <!-- Matrix/Cyber Green Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F2D19&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00FF66&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00FF66" width="100%" />
 
 </div>
 
 ---
 
-### <p align="center"><code><font color="#00E5FF">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
+### <p align="center"><code><font color="#00FF66">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
 
 ---
 
 ## 🚀 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      I'm a <b>Computer Science & Engineering Student</b> passionate about building software foundations, solving logic problems, and exploring modern tech.<br/><br/>
-      Currently focusing on:
-      <ul>
-        <li><b>C & C++ Programming</b></li>
-        <li><b>Data Structures & Algorithms</b></li>
-        <li><b>Database Management Systems (SQL)</b></li>
-        <li><b>Git & GitHub Workflows</b></li>
-      </ul>
-      <br/>
-      <i>"Turning complex problems into clean, efficient code."</i>
-    </td>
-    <td width="40%" align="center">
-      <!-- Cyber Programmer GIF -->
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="45%" align="right" style="border-radius: 10px; margin-left: 20px;" />
+</p>
+
+I'm a **Computer Science & Engineering Student** passionate about building software foundations, solving logic problems, and exploring modern tech.
+
+Currently focusing on:
+* 🟢 **C & C++ Programming**
+* 🟢 **Data Structures & Algorithms**
+* 🟢 **Database Management Systems (SQL)**
+* 🟢 **Git & GitHub Workflows**
+
+<br/>
+
+> *"Turning complex problems into clean, efficient code."*
+
+<br clear="all" />
 
 ---
 
@@ -81,14 +77,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00FF66&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00FF66&labelColor=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=dark&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="80%" />
 </div>
 
 ---
