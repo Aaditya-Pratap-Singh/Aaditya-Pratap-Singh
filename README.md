@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Cyber Terminal Custom Banner -->
+  <!-- Fixed Name Header + Dynamic Typing Subtitle -->
   <a href="https://github.com/Aaditya-Pratap-Singh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=AADITYA+PRATAP+SINGH;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SOLUTIONS+.+CREATING+IMPACT" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=110&lines=AADITYA+PRATAP+SINGH;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SOLUTIONS+.+CREATING+IMPACT" alt="Header Banner" />
   </a>
 
 </div>
@@ -24,27 +24,23 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      I'm an aspiring <b>Software Engineer</b> with a strong interest in programming, problem-solving, and core tech.<br/><br/>
-      <b>Currently Strengthening:</b>
-      <ul>
-        <li><code>C & C++ Programming</code></li>
-        <li><code>Data Structures & Algorithms</code></li>
-        <li><code>Database Management Systems (SQL)</code></li>
-        <li><code>Git & GitHub Workflows</code></li>
-      </ul>
-      <br/>
-      <i>"Driven by curiosity and committed to building clean logic."</i>
-    </td>
-    <td width="40%" align="center">
-      <!-- Cyber Programmer Image GIF -->
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border: 2px solid #00FF66; border-radius: 8px;" alt="Developer GIF" />
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtN3J5Ymh0enEwMmdzNng1bzE4aDZzeGFnd2J6ZnRpdjJvZnk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PP93838/giphy.gif" width="38%" align="right" style="border-radius: 8px;" />
+</p>
+
+I'm an aspiring **Software Engineer** with a strong interest in programming, problem-solving, and core tech.
+
+**Currently Strengthening:**
+* 🟢 **C & C++ Programming**
+* 🟢 **Data Structures & Algorithms**
+* 🟢 **Database Management Systems (SQL)**
+* 🟢 **Git & GitHub Workflows**
+
+<br/>
+
+> *"Driven by curiosity and committed to building clean logic."*
+
+<br clear="all" />
 
 ---
 
