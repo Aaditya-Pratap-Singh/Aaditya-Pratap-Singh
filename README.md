@@ -1,39 +1,54 @@
 <div align="center">
 
-  <!-- Matrix/Cyber Green Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0F2D19&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00FF66&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00FF66" width="100%" />
+  <!-- Cyber Terminal Custom Banner -->
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF66&center=true&vCenter=true&width=800&height=100&lines=AADITYA+PRATAP+SINGH;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SOLUTIONS+.+CREATING+IMPACT" alt="Typing Banner" />
+  </a>
 
 </div>
 
 ---
 
-### <p align="center"><code><font color="#00FF66">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/CODE-00FF66?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEARN-00FF66?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/BUILD-00FF66?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/REPEAT-00FF66?style=for-the-badge&logoColor=black" />
+</div>
+
+---
+
+### <p align="center"><code><font color="#00FF66">⚡ Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
 
 ---
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="45%" align="right" style="border-radius: 10px; margin-left: 20px;" />
-</p>
-
-I'm a **Computer Science & Engineering Student** passionate about building software foundations, solving logic problems, and exploring modern tech.
-
-Currently focusing on:
-* 🟢 **C & C++ Programming**
-* 🟢 **Data Structures & Algorithms**
-* 🟢 **Database Management Systems (SQL)**
-* 🟢 **Git & GitHub Workflows**
-
-<br/>
-
-> *"Turning complex problems into clean, efficient code."*
-
-<br clear="all" />
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      I'm an aspiring <b>Software Engineer</b> with a strong interest in programming, problem-solving, and core tech.<br/><br/>
+      <b>Currently Strengthening:</b>
+      <ul>
+        <li><code>C & C++ Programming</code></li>
+        <li><code>Data Structures & Algorithms</code></li>
+        <li><code>Database Management Systems (SQL)</code></li>
+        <li><code>Git & GitHub Workflows</code></li>
+      </ul>
+      <br/>
+      <i>"Driven by curiosity and committed to building clean logic."</i>
+    </td>
+    <td width="40%" align="center">
+      <!-- Cyber Programmer Image GIF -->
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border: 2px solid #00FF66; border-radius: 8px;" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -46,7 +61,7 @@ Currently focusing on:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -74,7 +89,7 @@ Currently focusing on:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00FF66&labelColor=0D1117" />
