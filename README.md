@@ -1,86 +1,64 @@
 <div align="center">
 
-<!-- ====================== -->
-<!-- Animated Banner -->
-<!-- ====================== -->
+<!-- ========================================= -->
+<!-- Premium Animated Header -->
+<!-- ========================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5D4,50:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh&fontSize=52&fontAlignY=38&fontColor=0D1117&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=20">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:00F5D4,40:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh&fontSize=52&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Engineering%20Student%20|%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=20">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4361EE,50:00B4D8,100:00F5D4&text=Aaditya%20Pratap%20Singh&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20%7C%20C%2B%2B%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4361EE,40:00B4D8,100:00F5D4&text=Aaditya%20Pratap%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Engineering%20Student%20|%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=20">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5D4,50:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh&fontSize=52&fontAlignY=38&fontColor=0D1117"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:00F5D4,40:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh"/>
 </picture>
 
 <br>
 
-<!-- ====================== -->
-<!-- Typing Animation -->
-<!-- ====================== -->
+<!-- ========================================= -->
+<!-- Typing SVG -->
+<!-- ========================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=00F5D4&center=true&vCenter=true&width=900&lines=Engineering+Student;C%2B%2B+Developer;Data+Structures+%26+Algorithms;Learning+Backend+Development;Building+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F5D4&center=true&vCenter=true&width=900&lines=Engineering+Student;C%2B%2B+Developer;Learning+Data+Structures+%26+Algorithms;Backend+Developer+in+Progress;Building+Projects+Every+Day" alt="Typing Animation"/>
 
 <br><br>
 
-<!-- ====================== -->
-<!-- Visitor Counter -->
-<!-- ====================== -->
+<!-- ========================================= -->
+<!-- Visitor + Followers -->
+<!-- ========================================= -->
 
-<img src="https://komarev.com/ghpvc/?username=Aaditya-Pratap-Singh&label=Profile%20Views&color=00F5D4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Aaditya-Pratap-Singh&style=for-the-badge&color=00F5D4" />
 
-<img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?logo=github&style=for-the-badge&color=7B2CBF" />
+<img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?style=for-the-badge&color=7B2CBF&logo=github" />
 
 <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?affiliations=OWNER&style=for-the-badge&color=4361EE" />
 
 <br><br>
 
-<!-- ====================== -->
-<!-- Coding Profiles -->
-<!-- ====================== -->
-
-<a href="https://github.com/Aaditya-Pratap-Singh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- ====================== -->
+<!-- ========================================= -->
 <!-- Social Links -->
-<!-- ====================== -->
+<!-- ========================================= -->
 
-<a href="https://linkedin.com/in/aaditya-pratap-23398b389/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/aaditya-pratap">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/aaditya_pratap_10">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@Aadiiitya_10">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
 <a href="mailto:itsaadityasingh10@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Aadiiitya_10">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World!
+# 👋 Hello, World!
 
 ```cpp
 #include <iostream>
@@ -90,11 +68,11 @@ class Aaditya {
 
 public:
 
-    string role = "Engineering Student";
+    string education = "Engineering Student";
 
     string language = "C++";
 
-    string interest = "Data Structures & Algorithms";
+    string currentFocus = "Data Structures & Algorithms";
 
     string learning = "Backend Development";
 
@@ -106,232 +84,268 @@ int main() {
 
     Aaditya me;
 
-    cout << "Keep Building. Keep Learning.";
+    cout << "Build. Learn. Repeat.";
 
 }
 ```
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## ⚡ Turning Logic into Code • One Commit at a Time
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-*"Consistency beats intensity."*
+I'm **Aaditya Pratap Singh**, an Engineering student from **India 🇮🇳** who enjoys solving problems and building software.
 
-</div>
+I believe in mastering the fundamentals before chasing advanced technologies. My current journey is focused on strengthening my skills in **C++**, **Data Structures & Algorithms**, and **Backend Development**, while building projects that solve real-world problems.
 
----
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40"> About Me
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-## 👨‍💻 Who Am I?
-
-Hi! I'm **Aaditya Pratap Singh**, an Engineering student from **India** 🇮🇳 who enjoys solving problems and building software.
-
-I believe that becoming a great engineer starts with mastering the fundamentals. That's why I'm currently focused on writing clean code, strengthening my problem-solving skills, and understanding how software works behind the scenes.
-
-I enjoy turning ideas into working applications while continuously improving my knowledge of algorithms, data structures, and backend development.
-
----
-
-### 🚀 Currently Working On
+### 🎯 Current Focus
 
 - 💻 Mastering **C++**
-- 🧠 Solving **Data Structures & Algorithms**
+- 🧠 Solving **DSA**
 - 🌐 Learning **Backend Development**
-- 📚 Understanding **Computer Science Fundamentals**
-- ⚡ Building Real-World Projects
+- 📚 Strengthening Computer Science Fundamentals
+- 🚀 Building Practical Projects
+
+<br>
+
+### ⚡ Quick Facts
+
+- 🎓 Engineering Student
+- 💻 Passionate about Software Engineering
+- 🌱 Learning every day
+- 🚀 Open Source Enthusiast
+- ☕ Coffee + Music = Coding
+- 📖 Lifelong Learner
 
 ---
 
-### 🎯 Long-Term Goals
-
-✔ Become an excellent Software Engineer
-
-✔ Contribute to Open Source
-
-✔ Build impactful software
-
-✔ Crack top Software Engineering interviews
-
-✔ Continuously learn new technologies
-
----
-
-### 💡 Interests
-
-- Algorithms
-- Competitive Programming
-- Backend Engineering
-- System Design
-- Open Source
-- Artificial Intelligence
-- Cloud Computing
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-## 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript" />
-
----
-
-## 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
-
----
-
-## 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
----
-
-## ⚙ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
----
-
-## 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=cpp,nodejs,mongodb,docker" />
-
-</div>
-
----
-
-# 📖 Learning Journey
-
-```text
-C++
-██████████████████░░░░ 80%
-
-Data Structures
-████████████████░░░░░░ 70%
-
-Algorithms
-██████████████░░░░░░░░ 65%
-
-Backend Development
-████████░░░░░░░░░░░░░░ 35%
-
-System Design
-████░░░░░░░░░░░░░░░░░░ 15%
-
-Open Source
-██░░░░░░░░░░░░░░░░░░░░ 10%
-```
-
----
-
-# ⚡ What I Believe
-
-> **"Code is not just about making computers work—it's about solving problems elegantly."**
-
-I believe in:
-
-- Writing clean and maintainable code
-- Learning by building projects
-- Improving one percent every day
-- Quality over quantity
-- Understanding concepts instead of memorizing syntax
-
----
-
-# 🎓 Engineering Journey
-
-```text
-2025  ───────── Started Engineering
-
-2025  ───────── Started Learning C++
-
-2025  ───────── Began Data Structures
-
-2026  ───────── Learning Backend Development
-
-2026  ───────── Building Projects
-
-2027  ───────── Open Source Contributions
-
-Future ─────── Software Engineer 🚀
-```
-
----
-
-# ⚡ Fun Facts
-
-```yaml
-Name: Aaditya Pratap Singh
-
-Country: India 🇮🇳
-
-Education: Engineering Student
-
-Languages:
-  - C++
-  - C
-  - Python
-  - JavaScript
-
-Currently Learning:
-  - Data Structures
-  - Algorithms
-  - Backend Development
-
-Hobbies:
-  - Coding
-  - Reading Tech Blogs
-  - Exploring New Technologies
-
-Favorite Quote:
-  "Stay Curious. Keep Building."
-
-Dream:
-  Build software that impacts millions.
-```
+> **"Great software isn't written in one day; it's built one commit at a time."**
 
 ---
 
 <div align="center">
 
-### 💻 "The expert in anything was once a beginner."
+### 💚 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Never+Stop+Learning.;Build.+Break.+Fix.+Repeat.;Consistency+Creates+Greatness." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00F5D4&center=true&width=500&lines=Welcome+to+my+GitHub!;Happy+Coding!;Let's+Build+Something+Awesome!" />
 
 </div>
 
 ---
-# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45"> GitHub Analytics
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+</p>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🚀 Learning | 📈 Progress |
+|------------|------------|
+| C++ | ⭐⭐⭐⭐⭐ |
+| STL | ⭐⭐⭐⭐☆ |
+| Data Structures | ⭐⭐⭐⭐☆ |
+| Algorithms | ⭐⭐⭐☆☆ |
+| Backend Development | ⭐⭐☆☆☆ |
+| MongoDB | ⭐⭐☆☆☆ |
+| Docker | ⭐☆☆☆☆ |
+| System Design | ⭐☆☆☆☆ |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| Master C++ | 🟢 In Progress |
+| Solve 500+ DSA Problems | 🟢 In Progress |
+| Learn Backend Development | 🟢 In Progress |
+| Build 10+ Projects | 🟡 Planned |
+| Open Source Contributions | 🟡 Planned |
+| Learn System Design | 🟡 Planned |
+
+</div>
+
+---
+
+# 🛣️ Learning Roadmap
+
+```text
+Programming Fundamentals
+          │
+          ▼
+      C++ Programming
+          │
+          ▼
+ Data Structures & STL
+          │
+          ▼
+     Algorithms
+          │
+          ▼
+Object-Oriented Programming
+          │
+          ▼
+      Database (SQL)
+          │
+          ▼
+ Node.js & Express.js
+          │
+          ▼
+       MongoDB
+          │
+          ▼
+      REST APIs
+          │
+          ▼
+    System Design
+          │
+          ▼
+ Open Source Contribution
+          │
+          ▼
+  Software Engineering 🚀
+```
+
+---
+
+# 💡 Coding Philosophy
+
+<div align="center">
+
+> ### *"First understand the concept, then write the code."*
+
+</div>
+
+I believe that:
+
+- 📖 Fundamentals are more valuable than shortcuts.
+- 🧠 Problem-solving is more important than memorizing syntax.
+- 🚀 Consistency beats motivation.
+- 💻 Projects are the best way to learn.
+- 🤝 Sharing knowledge helps everyone grow.
+
+---
+
+# 🌱 What I'm Working On
+
+```cpp
+while(true)
+{
+    Learn();
+    Practice();
+    Build();
+    Debug();
+    Improve();
+
+    if(success)
+        continue;
+}
+```
+
+---
+
+# 📈 My Developer Journey
+
+```text
+2025 🚀 Started Engineering
+
+        │
+
+        ▼
+
+Learned C++
+
+        │
+
+        ▼
+
+Started DSA
+
+        │
+
+        ▼
+
+Learning Backend Development
+
+        │
+
+        ▼
+
+Building Real-World Projects
+
+        │
+
+        ▼
+
+Open Source Contributions
+
+        │
+
+        ▼
+
+Future Software Engineer 💚
+```
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5D4&center=true&width=650&lines=C%2B%2B+Developer;Learning+Data+Structures;Backend+Developer+in+Progress;Building+Projects;Always+Learning+Something+New"/>
+
+</div>
+
+---
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Dashboard
 
 <div align="center">
 
 ### 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=7B2CBF&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true&background=00000000&ring=00F5D4&fire=7B2CBF&currStreakLabel=00F5D4"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -341,43 +355,17 @@ Dream:
 
 ### 🌍 Most Used Languages
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4&text_color=FFFFFF"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Pratap-Singh&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aaditya-Pratap-Singh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-# 📊 GitHub Summary Cards
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Pratap-Singh&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -393,9 +381,33 @@ Dream:
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aaditya-Pratap-Singh&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaditya-Pratap-Singh&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aaditya-Pratap-Singh&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
 # 🐍 Contribution Snake
 
-> **Requires GitHub Actions (I'll provide the workflow in Part 6).**
+> **This will appear automatically after setting up the GitHub Action in Part 6.**
 
 <div align="center">
 
@@ -407,7 +419,8 @@ srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Si
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
 
-<img width="100%" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg"/>
+<img width="100%" alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg"/>
 
 </picture>
 
@@ -415,59 +428,85 @@ srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Si
 
 ---
 
-# ⚡ Coding Stats
+<div align="center">
+
+## 💚 GitHub Activity
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5D4&center=true&width=650&lines=Consistency+is+my+Superpower.;One+Commit+at+a+Time.;Build+Learn+Repeat."/>
+
+</div>
+
+---
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35"/> Competitive Programming
 
 <div align="center">
 
-| 📊 Metric | Status |
-|-----------|--------|
-| 💻 Primary Language | C++ |
-| 📚 Current Focus | DSA & Backend |
-| 🌱 Learning | Node.js • Express • MongoDB |
-| 🎯 Goal | Software Engineer |
-| 🚀 Dream | Build scalable software |
-| ❤️ Favorite Part | Solving Problems |
+### 🚀 Coding Profiles
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 📈 Developer Progress
+<div align="center">
+
+### 💡 Coding Philosophy
+
+> **"The best programmers aren't those who know every language—they're the ones who solve problems efficiently."**
+
+</div>
+
+---
+
+# 🏅 Current Learning Journey
 
 ```text
-GitHub Contributions
+Programming Fundamentals
+████████████████████ 100%
 
-2025  ████████░░░░░░░░░░
+C++
+██████████████████░░ 90%
 
-2026  ██████████████░░░░
+STL
+████████████████░░░░ 80%
 
-2027  ██████████████████
+Data Structures
+██████████████░░░░░░ 70%
 
-Goal → Daily Commits 🚀
+Algorithms
+████████████░░░░░░░░ 60%
+
+Backend Development
+███████░░░░░░░░░░░░░ 35%
+
+System Design
+██░░░░░░░░░░░░░░░░░░ 10%
 ```
 
 ---
 
-<div align="center">
-
-## ⚡ Consistency is greater than Motivation
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1200&color=00F5D4&center=true&width=700&lines=Code+Every+Day.;Learn+Something+New.;Small+Steps+Lead+to+Big+Results."/>
-
-</div>
-
----
-# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="45"> Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
-> 🚧 **Building projects that strengthen problem-solving, backend development, and software engineering fundamentals.**
+### ⭐ My Best Work
 
 </div>
-
----
-
-## 🚀 Highlighted Repositories
 
 <table>
 
@@ -475,39 +514,31 @@ Goal → Daily Commits 🚀
 
 <td width="50%">
 
-### 📚 C++ & DSA Repository
+### 📚 DSA in C++
 
-A growing collection of:
-
-- Data Structures
-- Algorithms
-- STL
+- Complete DSA Journey
+- STL Examples
 - Interview Questions
-- Competitive Programming
+- Optimized Solutions
 
-**Tech**
+**Tech Used**
 
-`C++` `STL`
+`C++`
 
-⭐ Goal: 500+ Problems Solved
+`STL`
 
 </td>
 
 <td width="50%">
 
-### 🌐 Backend Development
-
-Learning modern backend development by building APIs and real-world applications.
-
-Topics include
+### 🌐 Backend API
 
 - REST APIs
 - Authentication
 - JWT
-- Express
-- MongoDB
+- CRUD Operations
 
-**Tech**
+**Tech Used**
 
 `Node.js`
 
@@ -523,24 +554,20 @@ Topics include
 
 <td width="50%">
 
-### 💻 Portfolio Website
-
-Modern responsive portfolio built with clean UI and animations.
-
-Features
+### 💼 Portfolio Website
 
 - Responsive Design
-- Smooth Animations
-- Projects
-- Contact
+- Animations
+- Dark Mode
+- Contact Form
 
-Tech
+**Tech Used**
 
-HTML
+`HTML`
 
-CSS
+`CSS`
 
-JavaScript
+`JavaScript`
 
 </td>
 
@@ -548,19 +575,11 @@ JavaScript
 
 ### 🚀 Mini Projects
 
-Small projects built while learning.
-
-Examples
-
-• Calculator
-
-• Weather App
-
-• To-do App
-
-• Notes App
-
-• File Manager
+- Calculator
+- Weather App
+- To-Do List
+- Notes App
+- File Manager
 
 </td>
 
@@ -570,119 +589,54 @@ Examples
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Mission
 
 <div align="center">
 
-| Goal | Progress |
-|------|----------|
-| Master C++ | 🟩🟩🟩🟩⬜ |
-| DSA | 🟩🟩🟩⬜⬜ |
-| Backend | 🟩🟩⬜⬜⬜ |
-| Open Source | 🟩⬜⬜⬜⬜ |
-| Projects | 🟩🟩⬜⬜⬜ |
-| System Design | ⬜⬜⬜⬜⬜ |
+| 🎯 Goal | Target |
+|---------|--------|
+| 💻 Solve DSA Problems | 500+ |
+| 🚀 Build Projects | 10+ |
+| 🌱 Open Source Contributions | 50+ |
+| ⭐ GitHub Followers | 500+ |
+| 🔥 Daily Coding | Consistent |
+| 📚 Learn Backend | Complete |
 
 </div>
 
 ---
 
-# 🛣 Learning Roadmap
+# 📖 Currently Reading
 
-```text
-✔ Programming Fundamentals
-
-      │
-
-      ▼
-
-✔ C++
-
-      │
-
-      ▼
-
-✔ Data Structures
-
-      │
-
-      ▼
-
-✔ Algorithms
-
-      │
-
-      ▼
-
-✔ Object-Oriented Programming
-
-      │
-
-      ▼
-
-✔ Database Management
-
-      │
-
-      ▼
-
-✔ Backend Development
-
-      │
-
-      ▼
-
-✔ System Design
-
-      │
-
-      ▼
-
-✔ Open Source
-
-      │
-
-      ▼
-
-✔ Software Engineering
-```
+- 📘 Clean Code
+- 📘 Grokking Algorithms
+- 📘 C++ Primer
+- 📘 Designing Data-Intensive Applications
 
 ---
 
-# 🌱 Currently Learning
+# 🧠 Skills Overview
 
-```yaml
-Programming:
-  - C++
+<div align="center">
 
-Data Structures:
-  - Arrays
-  - Linked List
-  - Stack
-  - Queue
-  - Trees
-  - Graphs
+| Skill | Level |
+|--------|-------|
+| C++ | ⭐⭐⭐⭐⭐ |
+| STL | ⭐⭐⭐⭐☆ |
+| DSA | ⭐⭐⭐⭐☆ |
+| OOP | ⭐⭐⭐⭐☆ |
+| HTML/CSS | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐☆☆ |
+| Node.js | ⭐⭐⭐☆☆ |
+| Express | ⭐⭐⭐☆☆ |
+| MongoDB | ⭐⭐⭐☆☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
 
-Algorithms:
-  - Searching
-  - Sorting
-  - Dynamic Programming
-  - Greedy
-  - Graph Algorithms
-
-Backend:
-  - Node.js
-  - Express.js
-  - MongoDB
-
-Version Control:
-  - Git
-  - GitHub
-```
+</div>
 
 ---
 
-# 💡 What I'm Working On
+# 💻 Developer Mindset
 
 ```cpp
 while(!success)
@@ -693,384 +647,7 @@ while(!success)
 
     Build();
 
-    Improve();
-}
-```
-
----
-
-# 📖 Books I'm Reading
-
-📘 Clean Code
-
-📘 The Pragmatic Programmer
-
-📘 Grokking Algorithms
-
-📘 Designing Data-Intensive Applications
-
-📘 C++ Primer
-
----
-
-# 🔥 Current Focus
-
-<div align="center">
-
-| 💻 Focus Area | Status |
-|--------------|--------|
-| C++ | ⭐⭐⭐⭐⭐ |
-| STL | ⭐⭐⭐⭐☆ |
-| DSA | ⭐⭐⭐⭐☆ |
-| Backend | ⭐⭐⭐☆☆ |
-| System Design | ⭐⭐☆☆☆ |
-| Open Source | ⭐☆☆☆☆ |
-
-</div>
-
----
-
-# 💼 Career Vision
-
-```text
-Engineering Student
-
-        │
-
-        ▼
-
-Competitive Programmer
-
-        │
-
-        ▼
-
-Backend Developer
-
-        │
-
-        ▼
-
-Software Engineer
-
-        │
-
-        ▼
-
-Open Source Contributor
-
-        │
-
-        ▼
-
-Build Products Used By Millions 🚀
-```
-
----
-
-# 🌍 Open Source Goals
-
-- Contribute to beginner-friendly repositories
-
-- Build useful developer tools
-
-- Fix documentation
-
-- Improve existing projects
-
-- Help new developers
-
----
-
-# 💬 Favorite Quotes
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-
-— Harold Abelson
-
----
-
-> "First, solve the problem. Then, write the code."
-
-— John Johnson
-
----
-
-> "Success is the sum of small efforts repeated day in and day out."
-
----
-
-# ⚡ Current Status
-
-```text
-🟢 Learning C++
-
-🟢 Solving DSA
-
-🟢 Building Projects
-
-🟢 Learning Backend
-
-🟢 Preparing for Placements
-
-🟢 Open to Collaboration
-```
-
----
-
-<div align="center">
-
-## 🚀 Building Today for a Better Tomorrow
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5D4&center=true&width=650&lines=Keep+Learning.;Keep+Building.;Dream+Big.;Ship+Projects.;Never+Stop+Improving."/>
-
-</div>
-
----
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40"> Competitive Programming
-
-<div align="center">
-
-> **"Every solved problem is one step closer to becoming a better engineer."**
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</div>
-
----
-
-# 🧠 Problem Solving Journey
-
-```text
-2025
-
-██████░░░░░░░░░░░░░░
-
-Learning C++
-
-↓
-
-2026
-
-████████████░░░░░░░░
-
-DSA + Backend
-
-↓
-
-2027
-
-████████████████░░░░
-
-Competitive Programming
-
-↓
-
-2028
-
-████████████████████
-
-Software Engineer 🚀
-```
-
----
-
-# 📊 Coding Goals
-
-<div align="center">
-
-| Platform | Goal |
-|-----------|------|
-| 🟧 LeetCode | 500+ Problems |
-| 🔵 Codeforces | Specialist |
-| 🟤 CodeChef | 4⭐ |
-| ⚫ GitHub | Open Source Contributor |
-
-</div>
-
----
-
-# 🏅 Skills Matrix
-
-| Skill | Level |
-|--------|-------|
-| C++ | ⭐⭐⭐⭐⭐ |
-| STL | ⭐⭐⭐⭐☆ |
-| OOP | ⭐⭐⭐⭐☆ |
-| DSA | ⭐⭐⭐⭐☆ |
-| Algorithms | ⭐⭐⭐⭐☆ |
-| Git | ⭐⭐⭐⭐☆ |
-| GitHub | ⭐⭐⭐⭐☆ |
-| HTML | ⭐⭐⭐⭐☆ |
-| CSS | ⭐⭐⭐☆☆ |
-| JavaScript | ⭐⭐⭐☆☆ |
-| Node.js | ⭐⭐⭐☆☆ |
-| Express | ⭐⭐⭐☆☆ |
-| MongoDB | ⭐⭐⭐☆☆ |
-| SQL | ⭐⭐⭐☆☆ |
-| Linux | ⭐⭐⭐☆☆ |
-
----
-
-# 📜 Certificates
-
-```text
-🏆 C++ Programming
-
-🏆 Data Structures
-
-🏆 Algorithms
-
-🏆 Web Development
-
-🏆 Git & GitHub
-
-🏆 Backend Development
-
-(Updating as I learn 🚀)
-```
-
----
-
-# 🎖 Achievements
-
-- 🌱 Engineering Student
-- 💻 Passionate about Software Engineering
-- 📚 Learning every day
-- 🚀 Building Projects
-- 🔥 Consistent GitHub Learner
-- 🤝 Open to Collaboration
-
----
-
-# 📚 Tech I'm Exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,nodejs,express,mongodb,mysql,docker,linux,git,github"/>
-
-</div>
-
----
-
-# 💼 Future Tech Stack
-
-```text
-Today
-
-C++
-│
-├── STL
-├── DSA
-└── Git
-
-↓
-
-Backend
-
-Node.js
-Express
-MongoDB
-REST API
-
-↓
-
-Advanced
-
-Docker
-Redis
-System Design
-AWS
-CI/CD
-
-↓
-
-Future
-
-Distributed Systems
-Kubernetes
-Microservices
-Cloud Architecture
-```
-
----
-
-# ☕ Outside Coding
-
-- 📖 Reading tech books
-- 🎥 Watching engineering talks
-- 🧩 Solving logic problems
-- 🌍 Exploring new technologies
-- 💡 Building side projects
-
----
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🎵 Coding Playlist
-
-<div align="center">
-
-> 🎧 Lofi • Synthwave • Instrumental • Coding Mix
-
-*(Optional: You can later integrate Spotify using Spotify GitHub Readme.)*
-
-</div>
-
----
-
-# 🤝 Let's Build Together
-
-I'm always interested in:
-
-- 🚀 Open Source
-- 💡 New Ideas
-- 🤝 Collaboration
-- 💻 Software Development
-- 📚 Learning from experienced developers
-
----
-
-# 📌 Developer Motto
-
-```cpp
-while(alive)
-{
-    Learn();
-
-    Build();
-
-    Fail();
+    Debug();
 
     Improve();
 
@@ -1080,197 +657,127 @@ while(alive)
 
 ---
 
+# 🌍 Open Source Goals
+
+- 🌱 Contribute to beginner-friendly repositories
+- 📚 Improve documentation
+- 🐛 Fix bugs
+- ✨ Add new features
+- 🤝 Collaborate with developers
+
+---
+
 <div align="center">
 
-## ⭐ "Small commits every day become great software."
+## 🚀 Dream → Learn → Build → Share
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5D4&center=true&width=700&lines=Practice+Makes+Progress.;Stay+Curious.;Consistency+Wins.;Code.+Debug.+Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5D4&center=true&width=700&lines=Competitive+Programmer.;Software+Engineer.;Backend+Developer.;Open+Source+Contributor.;Never+Stop+Learning."/>
 
 </div>
 
 ---
-# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45"> Let's Connect
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mailbox.png" width="35"/> Let's Connect
 
 <div align="center">
 
-I'm always open to discussing:
+### 💬 I'm always open to collaborating on interesting projects, discussing technology, or connecting with fellow developers.
 
-💻 Software Development
-
-🧠 Data Structures & Algorithms
-
-🚀 Backend Development
-
-🌍 Open Source
-
-☕ Tech & Engineering
-
----
+<br>
 
 <a href="https://linkedin.com/in/aaditya-pratap-23398b389/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/aaditya_pratap_10">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://youtube.com/@Aadiiitya_10">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:itsaadityasingh10@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Aadiiitya_10">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ❤️ Support My Journey
+# 💭 Random Developer Quote
 
 <div align="center">
 
-If you like my work...
-
-⭐ Star my repositories
-
-🍴 Fork interesting projects
-
-🤝 Collaborate with me
-
-💬 Give feedback
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-# 📅 Weekly Coding Goal
+# ☕ Support My Work
+
+<div align="center">
+
+If you like my projects, consider:
+
+⭐ Starring my repositories
+
+🍴 Forking projects
+
+💬 Giving feedback
+
+🤝 Collaborating on Open Source
+
+</div>
+
+---
+
+# 📈 Current Focus
 
 ```text
-Monday      ████████░░
+🎯 Master C++
 
-Tuesday     █████████░
+🎯 Solve DSA Daily
 
-Wednesday   ███████░░░
+🎯 Build Backend Projects
 
-Thursday    ██████████
+🎯 Contribute to Open Source
 
-Friday      ████████░░
-
-Saturday    █████████░
-
-Sunday      ███████░░░
+🎯 Become a Better Software Engineer
 ```
 
 ---
 
-# 📈 2026 Roadmap
+# 🚀 2026 Vision
 
 ```text
-C++
-
-████████████████████
-
-↓
-
-DSA
-
-██████████████████░░
-
-↓
-
-Backend
-
-██████████████░░░░░░
-
-↓
-
-Open Source
-
-██████████░░░░░░░░░░
-
-↓
-
-System Design
-
-██████░░░░░░░░░░░░░░
-
-↓
-
-Placements
-
-████░░░░░░░░░░░░░░░░
+Engineering Student
+        │
+        ▼
+Strong C++ Programmer
+        │
+        ▼
+DSA Problem Solver
+        │
+        ▼
+Backend Developer
+        │
+        ▼
+Open Source Contributor
+        │
+        ▼
+Software Engineer 🚀
 ```
-
----
-
-# 🌟 Fun Developer Facts
-
-```yaml
-OS:
-  - Windows
-  - Linux (Learning)
-
-Editor:
-  - VS Code
-
-Favorite Language:
-  - C++
-
-Favorite Topic:
-  - Algorithms
-
-Dream Company:
-  - FAANG / Top Product Company
-
-Coffee:
-  - Required ☕
-
-Debugging:
-  - 50% Reading Errors
-  - 50% Googling 😄
-```
-
----
-
-# 📊 Profile Checklist
-
-✅ Responsive Design
-
-✅ Dark Theme
-
-✅ Light Theme
-
-✅ GitHub Stats
-
-✅ Streak Stats
-
-✅ Activity Graph
-
-✅ Top Languages
-
-✅ GitHub Trophies
-
-✅ Visitor Counter
-
-✅ Snake Animation
-
-✅ Featured Projects
-
-✅ Goals
-
-✅ Learning Roadmap
-
-✅ Coding Profiles
-
-✅ Professional Footer
 
 ---
 
 <div align="center">
 
-## 🚀 "Keep Building. Keep Learning. Keep Growing."
+## 🌟 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F5D4&center=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing+Together!"/>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5D4,50:7B2CBF,100:4361EE"/>
 
