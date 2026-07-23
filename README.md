@@ -1,98 +1,130 @@
 <div align="center">
 
-  <!-- Cyber Teal Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:004D40&height=220&section=header&text=AADITYA%20PRATAP%20SINGH&fontSize=42&fontColor=00E5FF&animation=twinkle&desc=COMPUTER%20SCIENCE%20ENGINEERING%20STUDENT&descSize=15&descAlignY=72&descColor=00E5FF" width="100%" />
+  <!-- Responsive Light/Dark Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling">
+    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%">
+  </picture>
+
+  <br><br>
+
+  <!-- Title -->
+  <h1>Hey there, I'm <a href="https://github.com/Aaditya-Pratap-Singh">Aaditya Pratap Singh</a> 👋</h1>
+
+  <!-- Animated Typing Text -->
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;UI%2FUX+Design+Lover;Always+Building+%26+Learning" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Pink GitHub Badges -->
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?style=for-the-badge&logo=github&color=EF93C4&logoColor=ffffff&labelColor=333333" alt="Followers">
+  </a>
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?style=for-the-badge&logo=apachespark&color=F8BBD0&logoColor=ffffff&labelColor=333333" alt="Stars">
+  </a>
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://komarev.com/ghpvc/?username=Aaditya-Pratap-Singh&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views">
+  </a>
+
+  <br><br>
+  <hr width="80%">
+  <br>
 
 </div>
 
----
-
-### <p align="center"><code><font color="#00E5FF">Hi there 👋, I'm Aaditya Pratap Singh</font></code></p>
-
----
-
-## 🚀 About Me
-
-<table border="0">
+<!-- About Me Section -->
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <br/>
-      I'm a <b>Computer Science & Engineering Student</b> passionate about building software foundations, solving logic problems, and exploring modern tech.<br/><br/>
-      Currently focusing on:
+    <td width="65%" valign="top">
+      <h2>🌸 About Me</h2>
+      <p>
+        I'm a passionate developer who loves crafting aesthetic, high-performance web applications and contributing to open-source software.
+      </p>
       <ul>
-        <li><b>C & C++ Programming</b></li>
-        <li><b>Data Structures & Algorithms</b></li>
-        <li><b>Database Management Systems (SQL)</b></li>
-        <li><b>Git & GitHub Workflows</b></li>
+  <li>🌱 I’m currently learning <b>C++ & Data Structures & Algorithms (DSA)</b></li>
+  <li>💬 Ask me about <b>Problem Solving, C++ Basics, or Algorithmic Logic</b></li>
+  <li>⚡ Fun fact: <b>I measure time in O(1) and O(n) instead of minutes and hours ⏱️</b></li>
       </ul>
-      <br/>
-      <i>"Turning complex problems into clean, efficient code."</i>
     </td>
-    <td width="40%" align="center">
-      <!-- Cyber Programmer GIF -->
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?q=80&w=400&auto=format&fit=crop" alt="Profile Avatar or GIF" width="220px" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack & Tools
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
 
----
+  <hr width="80%">
+  <br>
 
-## 🐍 Contribution Snake
+  <!-- Tech Stack Section -->
+  <h2>💻 Tech Stack</h2>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark" alt="My Tech Stack" />
+  </a>
 
-<div align="center">
+  <br><br>
+  <hr width="80%">
+  <br>
+
+  <!-- GitHub Stats Section -->
+  <h2>📊 GitHub Analytics</h2>
+  <br>
+
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=custom&background=0d1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" alt="GitHub Streak" width="48%" />
+  </a>
+  <a href="https://github.com/Aaditya-Pratap-Singh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Pratap-Singh&theme=react-dark&bg_color=0d1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=false" alt="Activity Graph" width="48%" />
+  </a>
+
+  <br><br>
+  <hr width="80%">
+  <br>
+
+  <!-- Contribution Snake Section -->
+  <h2>🐍 Contribution Snake</h2>
+  <br>
+
+  <!-- 
+    To automatically generate the snake animation below, set up a GitHub Action!
+    Create a file at `.github/workflows/snake.yml` and add the "Platane/snk" action script.
+  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
 
----
+  <br><br>
+  <hr width="80%">
+  <br>
 
-## 🌐 Connect With Me
+  <!-- Connect Section -->
+  <h2>📫 Connect With Me</h2>
+  <br>
 
-<div align="center">
-  <a href="https://github.com/Aaditya-Pratap-Singh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://linkedin.com/in/aaditya-pratap-23398b389/">
+    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:itsaadityasingh10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
----
+  <br><br><br>
 
-## 📊 GitHub Analytics
+  <!-- Footer Waving Capsule -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer">
+    <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=120&section=footer" width="100%">
+  </picture>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0D1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
-</div>
-
----
-
-<div align="center">
-  <sub><code>CODE . LEARN . BUILD . REPEAT</code></sub>
 </div>
