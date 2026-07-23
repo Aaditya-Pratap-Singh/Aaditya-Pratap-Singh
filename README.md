@@ -1,11 +1,7 @@
 <div align="center">
 
-  <!-- Cyber Blue Waving Header Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=250&section=header&text=Aaditya&fontSize=70&fontColor=ffffff&animation=twinkling&desc=C%2B%2B%20Enthusiast%20%7C%20DSA%20Practitioner&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=250&section=header&text=Aaditya&fontSize=70&fontColor=ffffff&animation=twinkling&desc=C%2B%2B%20Enthusiast%20%7C%20DSA%20Practitioner&descSize=20">
-    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=250&section=header&text=Aaditya&fontSize=70&fontColor=ffffff&animation=twinkling&desc=C%2B%2B%20Enthusiast%20%7C%20DSA%20Practitioner&descSize=20" width="100%">
-  </picture>
+  <!-- Retrowave/Neon Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=200&section=header&text=Aaditya%20Pratap%20Singh&fontSize=50&fontColor=ffffff&animation=twinkling&desc=C%2B%2B%20Enthusiast%20%7C%20DSA%20Practitioner&descSize=20&descAlignY=70" width="100%" />
 
   <br><br>
 
@@ -21,14 +17,14 @@
 
   <br>
 
-  <!-- Cyber Blue GitHub Badges -->
+  <!-- Badges -->
   <a href="https://github.com/Aaditya-Pratap-Singh">
     <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?style=for-the-badge&logo=github&color=00B4D8&logoColor=ffffff&labelColor=1a1a1a" alt="Followers">
   </a>
   <a href="https://github.com/Aaditya-Pratap-Singh">
     <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?style=for-the-badge&logo=apachespark&color=90E0EF&logoColor=ffffff&labelColor=1a1a1a" alt="Stars">
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Aaditya-Pratap-Singh&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" alt="Profile Views">
+  <a href="https://komarev.com/ghpvc/?username=Aaditya-Pratap-Singh&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS">
   </a>
 
   <br><br>
@@ -79,7 +75,7 @@
   <br>
 
   <a href="https://github.com/Aaditya-Pratap-Singh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=custom&background=0d1117&border=00B4D8&stroke=00B4D8&ring=0077B6&fire=0077B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=90E0EF" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&background=0d1117&border=00B4D8&stroke=00B4D8&ring=0077B6&fire=0077B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=90E0EF" alt="GitHub Streak" width="48%" />
   </a>
   <a href="https://github.com/Aaditya-Pratap-Singh">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Pratap-Singh&theme=react-dark&bg_color=0d1117&color=00B4D8&line=0077B6&point=90E0EF&area=true&hide_border=false" alt="Activity Graph" width="48%" />
@@ -89,44 +85,26 @@
   <hr width="80%">
   <br>
 
-  <!-- Contribution Snake Section -->
-  <h2>🐍 Contribution Snake</h2>
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-  <br><br>
-  <hr width="80%">
-  <br>
-
   <!-- Connect Section -->
   <h2>🔗 Connect</h2>
   <br>
 
-  <a href="https://linkedin.com/in/aaditya-pratap-23398b389/">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
     <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/aaditya_pratap_10">
+  <a href="https://x.com/[YOUR_X_HANDLE]">
+    <img src="https://img.shields.io/badge/X-90E0EF?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
     <img src="https://img.shields.io/badge/Instagram-0077B6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://youtube.com/@Aadiiitya_10">
-    <img src="https://img.shields.io/badge/YouTube-90E0EF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="mailto:itsaadityasingh10@gmail.com">
+  <a href="mailto:[YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Email-0077B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <br><br><br>
 
-  <!-- Footer Gradient Waving Capsule -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer&text=Aaditya%20Pratap%20Singh%20-%20Connect%20%26%20Collaborate&fontSize=16&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=120&section=footer&text=Aaditya%20Pratap%20Singh%20-%20Connect%20%26%20Collaborate&fontSize=16&fontColor=ffffff">
-    <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer&text=Aaditya%20Pratap%20Singh%20-%20Connect%20%26%20Collaborate&fontSize=16&fontColor=ffffff" width="100%">
-  </picture>
+  <!-- Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer&text=Aaditya%20Pratap%20Singh%20-%20Connect%20%26%20Collaborate&fontSize=16&fontColor=ffffff" width="100%" />
 
 </div>
