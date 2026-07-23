@@ -60,7 +60,7 @@
 <!-- Social Links -->
 <!-- ====================== -->
 
-<a href="https://linkedin.com/in/aaditya-pratap">
+<a href="https://linkedin.com/in/aaditya-pratap-23398b389/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
