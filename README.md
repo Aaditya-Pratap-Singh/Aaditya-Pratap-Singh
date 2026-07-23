@@ -105,19 +105,19 @@
 <h3>📫 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://linkedin.com/in/aaditya-pratap">
     <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
+  <a href="https://instagram.com/aaditya_pratap_10">
     <img src="https://img.shields.io/badge/Instagram-7B2CBF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://youtube.com/@[YOUR_YOUTUBE]">
+  <a href="https://youtube.com/@Aadiiitya_10">
     <img src="https://img.shields.io/badge/YouTube-00F5D4?style=for-the-badge&logo=youtube&logoColor=0D1117" alt="YouTube" />
   </a>
   &nbsp;
-  <a href="mailto:[YOUR_EMAIL]@gmail.com">
+  <a href="mailto:itsaadityasingh10@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
