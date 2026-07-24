@@ -1,7 +1,7 @@
 <div align="center"> 
  
 <!-- ========================================= -->
-<!-- Premium Animated Header -->
+<!-- Premium Animated Header --> 
 <!-- ========================================= -->
 
 <picture>
