@@ -9,7 +9,7 @@
 
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:4361EE,40:00B4D8,100:00F5D4&text=Aaditya%20Pratap%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Engineering%20Student%20|%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descAlignY=58&descSize=20">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:00F5D4,40:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:00F5D4,40:7B2CBF,100:4361EE&text=Aaditya%20Pratap%20Singh"/> 
 </picture>
 
 <br>
