@@ -20,7 +20,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F5D4&center=true&vCenter=true&width=900&lines=Engineering+Student;C%2B%2B+Developer;Learning+Data+Structures+%26+Algorithms;Backend+Developer+in+Progress;Building+Projects+Every+Day" alt="Typing Animation"/>
 
-<br><br>
+<br><br> 
 
 <!-- ========================================= -->
 <!-- Visitor + Followers -->
