@@ -66,7 +66,7 @@ using namespace std;
 
 class Aaditya {
 
-public:
+public: 
 
     string education = "Engineering Student";
 
