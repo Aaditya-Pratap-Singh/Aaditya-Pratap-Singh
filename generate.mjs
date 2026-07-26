@@ -46,77 +46,70 @@ async function fetchRealGraphQLContributions() {
     }
 
     const weeks = result.data.user.contributionsCollection.contributionCalendar.weeks;
-    const recentWeeks = weeks.slice(-38);
+    // 44 weeks for full width graph
+    const recentWeeks = weeks.slice(-44);
 
     let gridSvg = '';
     recentWeeks.forEach((week, col) => {
       week.contributionDays.forEach((day, row) => {
-        const x = col * 15;
-        const y = row * 15;
+        const x = col * 16;
+        const y = row * 16;
         
-        // Active contributions par hit effect / glow Pulse
-        const isContribution = day.contributionCount > 0;
-        const animateEffect = isContribution ? `
-          <animate attributeName="opacity" values="0.4;1;0.4" dur="${(1.5 + Math.random()).toFixed(1)}s" repeatCount="indefinite" />
-        ` : '';
+        const isGreen = day.contributionCount > 0;
+        const pulse = isGreen 
+          ? `<animate attributeName="fill-opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite" />` 
+          : '';
 
-        gridSvg += `<rect x="${x}" y="${y}" width="12" height="12" fill="${day.color}" rx="2">\n${animateEffect}</rect>\n`;
+        gridSvg += `<rect x="${x}" y="${y}" width="13" height="13" fill="${day.color}" rx="2">\n${pulse}\n</rect>\n`;
       });
     });
 
-    // Slow movement + Upward hit animation
     const svgContent = `
-<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
 
-  <text x="30" y="32" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="15" font-weight="bold">
+  <text x="25" y="28" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold">
     👾 ${USERNAME}'s Real Contribution Shooter
   </text>
 
-  <!-- Real Heatmap Grid with Glowing Hit Effects -->
-  <g transform="translate(30, 50)">
+  <!-- Full Width Heatmap Grid -->
+  <g transform="translate(25, 40)">
     ${gridSvg}
   </g>
 
-  <!-- Slow Jet Flight + Deep Hit Lasers -->
-  <g transform="translate(0, 205)">
-    <!-- SLOW Horizontal Movement (14s) -->
+  <!-- Moving Jet + Laser Blast Hit Effect -->
+  <g transform="translate(0, 165)">
+    <!-- Smooth Horizontal Flight -->
     <animateTransform 
       attributeName="transform" 
       type="translate" 
-      values="30,205; 550,205; 30,205" 
-      dur="14s" 
+      values="25,165; 690,165; 25,165" 
+      dur="12s" 
       repeatCount="indefinite" 
     />
 
-    <!-- Laser Beam 1 (Hits deep into grid) -->
-    <rect x="11" y="-10" width="3" height="22" fill="#39d353" rx="1">
-      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    <!-- Upward Firing Lasers Hitting Heatmap -->
+    <rect x="10" y="-110" width="3" height="110" fill="#39d353" opacity="0.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="0.3s" repeatCount="indefinite" />
+      <animate attributeName="height" values="20;110;20" dur="0.5s" repeatCount="indefinite" />
     </rect>
 
-    <!-- Laser Beam 2 -->
-    <rect x="11" y="-10" width="3" height="22" fill="#79c0ff" rx="1">
-      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" begin="0.25s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0.25s" repeatCount="indefinite" />
-    </rect>
+    <!-- Impact Spark at Hit Point -->
+    <circle cx="11" cy="-110" r="5" fill="#39d353">
+      <animate attributeName="r" values="2;6;2" dur="0.3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.3;1" dur="0.3s" repeatCount="indefinite" />
+    </circle>
 
-    <!-- Laser Beam 3 -->
-    <rect x="11" y="-10" width="3" height="22" fill="#ff7b72" rx="1">
-      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" begin="0.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0.5s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Upward Facing Jet -->
-    <path d="M 12 -14 L 21 6 L 16 4 L 12 11 L 8 4 L 3 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
-    <polygon points="10,11 12,18 14,11" fill="#ff7b72" />
+    <!-- Upward Facing Fighter Jet -->
+    <path d="M 11 -12 L 19 6 L 15 4 L 11 10 L 7 4 L 3 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
+    <polygon points="9,10 11,16 13,10" fill="#ff7b72" />
   </g>
 </svg>
     `.trim();
 
     fs.writeFileSync('dark.svg', svgContent);
     fs.writeFileSync('light.svg', svgContent);
-    console.log('SUCCESS! Slow speed + Hit effect version generated!');
+    console.log('SUCCESS! Full width shooter graph generated!');
 
   } catch (err) {
     console.error('Execution Failed:', err);
