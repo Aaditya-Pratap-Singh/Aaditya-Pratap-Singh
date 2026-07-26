@@ -57,53 +57,54 @@ async function fetchRealGraphQLContributions() {
       });
     });
 
+    // Height increased to 280 to place jet properly BELOW the grid
     const svgContent = `
-<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .jet-group { animation: flyAround 7s linear infinite alternate; }
-    .bullet-1 { animation: shootUp 0.6s linear infinite; }
-    .bullet-2 { animation: shootUp 0.6s linear infinite 0.2s; }
-    .bullet-3 { animation: shootUp 0.6s linear infinite 0.4s; }
+    .jet-group { animation: flyAround 8s linear infinite alternate; }
+    .bullet-1 { animation: shootUp 0.7s linear infinite; }
+    .bullet-2 { animation: shootUp 0.7s linear infinite 0.25s; }
+    .bullet-3 { animation: shootUp 0.7s linear infinite 0.5s; }
 
     @keyframes flyAround {
-      0% { transform: translateX(20px); }
-      100% { transform: translateX(530px); }
+      0% { transform: translateX(30px); }
+      100% { transform: translateX(540px); }
     }
 
     @keyframes shootUp {
       0% { transform: translateY(0px); opacity: 1; }
-      100% { transform: translateY(-110px); opacity: 0; }
+      100% { transform: translateY(-160px); opacity: 0; }
     }
   </style>
 
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
 
-  <text x="30" y="28" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold">
-    🚀 ${USERNAME}'s Real Contribution Shooter
+  <text x="30" y="32" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="15" font-weight="bold">
+    👾 ${USERNAME}'s Real Contribution Shooter
   </text>
 
-  <!-- Real Heatmap Grid -->
-  <g transform="translate(30, 42)">
+  <!-- Real Heatmap Grid (Placed at Y: 50) -->
+  <g transform="translate(30, 50)">
     ${gridSvg}
   </g>
 
-  <!-- Firing Jet at Bottom -->
-  <g class="jet-group" transform="translate(0, 180)">
+  <!-- Jet Shooter Placed at Bottom (Y: 230) -->
+  <g class="jet-group" transform="translate(0, 230)">
     <!-- Upward Lasers -->
-    <rect class="bullet-1" x="11" y="-8" width="3" height="14" fill="#ff7b72" rx="1" />
-    <rect class="bullet-2" x="11" y="-8" width="3" height="14" fill="#38d39f" rx="1" />
-    <rect class="bullet-3" x="11" y="-8" width="3" height="14" fill="#79c0ff" rx="1" />
+    <rect class="bullet-1" x="11" y="-10" width="3" height="16" fill="#ff7b72" rx="1" />
+    <rect class="bullet-2" x="11" y="-10" width="3" height="16" fill="#38d39f" rx="1" />
+    <rect class="bullet-3" x="11" y="-10" width="3" height="16" fill="#79c0ff" rx="1" />
 
-    <!-- Space Shooter Jet -->
-    <path d="M 12 -12 L 20 6 L 15 4 L 12 10 L 9 4 L 4 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
-    <polygon points="10,10 12,16 14,10" fill="#ff7b72" />
+    <!-- Upward Facing Jet -->
+    <path d="M 12 -14 L 21 6 L 16 4 L 12 11 L 8 4 L 3 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
+    <polygon points="10,11 12,18 14,11" fill="#ff7b72" />
   </g>
 </svg>
     `.trim();
 
     fs.writeFileSync('dark.svg', svgContent);
     fs.writeFileSync('light.svg', svgContent);
-    console.log('PERFECT! Updated shooter animation generated!');
+    console.log('SUCCESS! Jet repositioned below the grid.');
 
   } catch (err) {
     console.error('Execution Failed:', err);
