@@ -57,45 +57,50 @@ async function fetchRealGraphQLContributions() {
       });
     });
 
-    // Height increased to 280 to place jet properly BELOW the grid
+    // Native SVG SMIL Animations (Compatible with GitHub Markdown Image Rendering)
     const svgContent = `
-<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .jet-group { animation: flyAround 8s linear infinite alternate; }
-    .bullet-1 { animation: shootUp 0.7s linear infinite; }
-    .bullet-2 { animation: shootUp 0.7s linear infinite 0.25s; }
-    .bullet-3 { animation: shootUp 0.7s linear infinite 0.5s; }
-
-    @keyframes flyAround {
-      0% { transform: translateX(30px); }
-      100% { transform: translateX(540px); }
-    }
-
-    @keyframes shootUp {
-      0% { transform: translateY(0px); opacity: 1; }
-      100% { transform: translateY(-160px); opacity: 0; }
-    }
-  </style>
-
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
 
   <text x="30" y="32" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="15" font-weight="bold">
     👾 ${USERNAME}'s Real Contribution Shooter
   </text>
 
-  <!-- Real Heatmap Grid (Placed at Y: 50) -->
+  <!-- Real Heatmap Grid -->
   <g transform="translate(30, 50)">
     ${gridSvg}
   </g>
 
-  <!-- Jet Shooter Placed at Bottom (Y: 230) -->
-  <g class="jet-group" transform="translate(0, 230)">
-    <!-- Upward Lasers -->
-    <rect class="bullet-1" x="11" y="-10" width="3" height="16" fill="#ff7b72" rx="1" />
-    <rect class="bullet-2" x="11" y="-10" width="3" height="16" fill="#38d39f" rx="1" />
-    <rect class="bullet-3" x="11" y="-10" width="3" height="16" fill="#79c0ff" rx="1" />
+  <!-- Moving Jet + Laser Firing System -->
+  <g transform="translate(0, 210)">
+    <!-- Horizontal Movement for Entire Shooter -->
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="30,210; 550,210; 30,210" 
+      dur="7s" 
+      repeatCount="indefinite" 
+    />
 
-    <!-- Upward Facing Jet -->
+    <!-- Laser Beam 1 -->
+    <rect x="11" y="-10" width="3" height="18" fill="#ff7b72" rx="1">
+      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Laser Beam 2 -->
+    <rect x="11" y="-10" width="3" height="18" fill="#38d39f" rx="1">
+      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" begin="0.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.6s" begin="0.2s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Laser Beam 3 -->
+    <rect x="11" y="-10" width="3" height="18" fill="#79c0ff" rx="1">
+      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" begin="0.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.6s" begin="0.4s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Upward Facing Jet Plane -->
     <path d="M 12 -14 L 21 6 L 16 4 L 12 11 L 8 4 L 3 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
     <polygon points="10,11 12,18 14,11" fill="#ff7b72" />
   </g>
@@ -104,7 +109,7 @@ async function fetchRealGraphQLContributions() {
 
     fs.writeFileSync('dark.svg', svgContent);
     fs.writeFileSync('light.svg', svgContent);
-    console.log('SUCCESS! Jet repositioned below the grid.');
+    console.log('SUCCESS! Native SVG SMIL animation generated successfully!');
 
   } catch (err) {
     console.error('Execution Failed:', err);
