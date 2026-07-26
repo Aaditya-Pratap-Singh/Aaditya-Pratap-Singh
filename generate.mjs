@@ -53,11 +53,18 @@ async function fetchRealGraphQLContributions() {
       week.contributionDays.forEach((day, row) => {
         const x = col * 15;
         const y = row * 15;
-        gridSvg += `<rect x="${x}" y="${y}" width="12" height="12" fill="${day.color}" rx="2" />\n`;
+        
+        // Active contributions par hit effect / glow Pulse
+        const isContribution = day.contributionCount > 0;
+        const animateEffect = isContribution ? `
+          <animate attributeName="opacity" values="0.4;1;0.4" dur="${(1.5 + Math.random()).toFixed(1)}s" repeatCount="indefinite" />
+        ` : '';
+
+        gridSvg += `<rect x="${x}" y="${y}" width="12" height="12" fill="${day.color}" rx="2">\n${animateEffect}</rect>\n`;
       });
     });
 
-    // Native SVG SMIL Animations (Compatible with GitHub Markdown Image Rendering)
+    // Slow movement + Upward hit animation
     const svgContent = `
 <svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
@@ -66,41 +73,41 @@ async function fetchRealGraphQLContributions() {
     👾 ${USERNAME}'s Real Contribution Shooter
   </text>
 
-  <!-- Real Heatmap Grid -->
+  <!-- Real Heatmap Grid with Glowing Hit Effects -->
   <g transform="translate(30, 50)">
     ${gridSvg}
   </g>
 
-  <!-- Moving Jet + Laser Firing System -->
-  <g transform="translate(0, 210)">
-    <!-- Horizontal Movement for Entire Shooter -->
+  <!-- Slow Jet Flight + Deep Hit Lasers -->
+  <g transform="translate(0, 205)">
+    <!-- SLOW Horizontal Movement (14s) -->
     <animateTransform 
       attributeName="transform" 
       type="translate" 
-      values="30,210; 550,210; 30,210" 
-      dur="7s" 
+      values="30,205; 550,205; 30,205" 
+      dur="14s" 
       repeatCount="indefinite" 
     />
 
-    <!-- Laser Beam 1 -->
-    <rect x="11" y="-10" width="3" height="18" fill="#ff7b72" rx="1">
-      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite" />
+    <!-- Laser Beam 1 (Hits deep into grid) -->
+    <rect x="11" y="-10" width="3" height="22" fill="#39d353" rx="1">
+      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
     </rect>
 
     <!-- Laser Beam 2 -->
-    <rect x="11" y="-10" width="3" height="18" fill="#38d39f" rx="1">
-      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" begin="0.2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.6s" begin="0.2s" repeatCount="indefinite" />
+    <rect x="11" y="-10" width="3" height="22" fill="#79c0ff" rx="1">
+      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" begin="0.25s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0.25s" repeatCount="indefinite" />
     </rect>
 
     <!-- Laser Beam 3 -->
-    <rect x="11" y="-10" width="3" height="18" fill="#79c0ff" rx="1">
-      <animate attributeName="y" values="-10;-150;-10" dur="0.6s" begin="0.4s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0;1" dur="0.6s" begin="0.4s" repeatCount="indefinite" />
+    <rect x="11" y="-10" width="3" height="22" fill="#ff7b72" rx="1">
+      <animate attributeName="y" values="-10;-155;-10" dur="0.8s" begin="0.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0.5s" repeatCount="indefinite" />
     </rect>
 
-    <!-- Upward Facing Jet Plane -->
+    <!-- Upward Facing Jet -->
     <path d="M 12 -14 L 21 6 L 16 4 L 12 11 L 8 4 L 3 6 Z" fill="#58a6ff" stroke="#1f6feb" stroke-width="1.5" />
     <polygon points="10,11 12,18 14,11" fill="#ff7b72" />
   </g>
@@ -109,7 +116,7 @@ async function fetchRealGraphQLContributions() {
 
     fs.writeFileSync('dark.svg', svgContent);
     fs.writeFileSync('light.svg', svgContent);
-    console.log('SUCCESS! Native SVG SMIL animation generated successfully!');
+    console.log('SUCCESS! Slow speed + Hit effect version generated!');
 
   } catch (err) {
     console.error('Execution Failed:', err);
