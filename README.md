@@ -38,11 +38,27 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
 
+## ⚡ Coding Performance & Live Stats
+
+<div align="center">
+  <!-- LeetCode Real-time Stats Card -->
+  <a href="https://leetcode.com/u/Aaditya_Pratap_Singh/" target="_blank">
+    <img src="https://leetcode-stats-api.herokuapp.com/Aaditya_Pratap_Singh" alt="Aaditya's LeetCode Stats" width="48%" />
+  </a>
+
+  <!-- Codeforces Rating Card -->
+  <a href="https://codeforces.com/profile/itsaadityasingh10" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=itsaadityasingh10&theme=tokyonight" alt="Aaditya's Codeforces Stats" width="48%" />
+  </a>
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,mysql,git,github,vscode"/>
 
 </p>
 
