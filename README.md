@@ -48,17 +48,16 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
+# 💭 Random Developer Quote
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pratap-Singh&show_icons=true&theme=tokyonight"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pratap-Singh&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
+
 
 ## 🔥 GitHub Streak
 
