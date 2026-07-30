@@ -72,7 +72,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
+ <img src="https://streak-stats.demolab.com?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 --- 
 
