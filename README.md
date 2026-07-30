@@ -64,7 +64,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ## 🔥 GitHub Streak
 
- **Github Analysis--
+  **Github Analysis--
   <div align="center">
   <img src="https://img.shields.io/github/followers/Aaditya-Pratap-Singh?label=Followers&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
   <img src="https://img.shields.io/github/stars/Aaditya-Pratap-Singh?label=Total%20Stars&style=for-the-badge&color=00E5FF&labelColor=0A0E17" />
@@ -75,7 +75,6 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Pratap-Singh&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 --- 
-
 
 ## 📈 Contribution Graph
 
