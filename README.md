@@ -12,7 +12,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🎓 B.Tech CSE Student at **Sri Aurobindo Institute of Technology, Indore**
 - 🌱 Currently learning **MERN Stack**
