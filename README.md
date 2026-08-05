@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Pratap Singh</h1>
 
-<h3 align="center">
+<h3 align="center"> 
 B.Tech Computer Science Engineering Student 
 <br>
 Sri Aurobindo Institute of Technology, Indore 🇮🇳
