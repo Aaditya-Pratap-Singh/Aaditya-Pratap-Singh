@@ -51,7 +51,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
 
-# 💭 Random Developer Quote
+# 💭 Random Developer Quote 
 
 <div align="center">
 
