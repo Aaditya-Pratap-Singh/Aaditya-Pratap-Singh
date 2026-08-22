@@ -41,7 +41,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 ---
 
 
-## 💻 Tech Stack  
+## 💻 Tech Stack   
 
 <p align="center">
 
