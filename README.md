@@ -3,7 +3,7 @@
 <h3 align="center"> 
 B.Tech Computer Science Engineering Student  
 <br>
-Sri Aurobindo Institute of Technology, Indore 🇮🇳 
+Sri Aurobindo Institute of Technology, Indore 🇮🇳  
 </h3> 
  
 <p align="center">
