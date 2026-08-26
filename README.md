@@ -15,7 +15,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 ## 🚀 About Me   
 
 - 🎓 B.Tech CSE Student at **Sri Aurobindo Institute of Technology, Indore**
-- 🌱 Currently learning **MERN Stack**
+- 🌱 Currently learning **MERN Stack** 
 - 💻 Interested in Web Development & Open Source 
 - ⚡ Passionate about Programming
 - 🎯 Goal: Become a Software Engineer
