@@ -106,7 +106,7 @@ srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Si
 
 ---
 
-# 🐍 Contribution Snake 
+# 🐍 Contribution Snake  
 
 <p align="center">
 
