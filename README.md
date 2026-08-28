@@ -76,7 +76,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 </div>
 --- 
 
-## 📈 Contribution Graph 
+## 📈 Contribution Graph
 
 <p align="center">
 
