@@ -18,7 +18,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 - 🌱 Currently learning **MERN Stack** 
 - 💻 Interested in Web Development & Open Source 
 - ⚡ Passionate about Programming
-- 🎯 Goal: Become a Software Engineer
+- 🎯 Goal: Want to learn new and different things
 
 ---
 
