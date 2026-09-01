@@ -9,7 +9,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;CSE+Student;Open+Source+Learner;Competitive+Programmer;Always+Learning+Something+New" />
 </p>
-
+ 
 ---
 
 ## 🚀 About Me  
