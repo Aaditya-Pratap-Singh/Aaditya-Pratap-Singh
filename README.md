@@ -22,7 +22,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me 
 
 <div align="center">
   
