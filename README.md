@@ -42,7 +42,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 
 ## 💻 Tech Stack 
-
+ 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c,java,python,html,mysql,git,github,vscode"/>
