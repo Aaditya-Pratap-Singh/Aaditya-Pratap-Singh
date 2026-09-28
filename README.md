@@ -79,7 +79,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 ## 📈 Contribution Graph
 
 <p align="center">
-
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Pratap-Singh&theme=tokyo-night"/>
 
 </p>
