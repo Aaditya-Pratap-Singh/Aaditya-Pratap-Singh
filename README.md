@@ -118,6 +118,6 @@ srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Si
 
 <p align="center">
 
-⭐ From <b>Aaditya Pratap Singh</b>
+⭐ From <b>Aaditya Pratap Singh</b> 
 
 </p>
