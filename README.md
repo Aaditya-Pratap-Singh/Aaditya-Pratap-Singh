@@ -34,7 +34,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
   </a>
   <a href="https://codeforces.com/profile/itsaadityasingh10" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445FE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
+  </a> 
 </div>
 </p>
 
