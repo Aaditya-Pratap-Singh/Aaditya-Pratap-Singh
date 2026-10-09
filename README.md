@@ -86,7 +86,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 ---
   
-# ⚡ GitHub Jet Heatmap
+# ⚡ GitHub Jet Heatmap 
 
 <p align="center">
 
