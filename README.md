@@ -20,7 +20,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 - ⚡ Passionate about Programming   
 - 🎯 Goal: To venture outside one's comfort zone
 
----
+--- 
 
 ## 🌐 Connect with Me   
 
