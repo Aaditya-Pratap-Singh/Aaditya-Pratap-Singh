@@ -48,7 +48,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 <img src="https://skillicons.dev/icons?i=c,java,python,html,mysql,git,github,vscode"/>
 
 </p>
-
+ 
 --- 
  
 # 💭 Random Developer Quote   
