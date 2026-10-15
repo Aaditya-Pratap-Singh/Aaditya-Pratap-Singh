@@ -23,7 +23,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 --- 
 
 ## 🌐 Connect with Me 
- 
+  
 <div align="center">
   
   <a href="https://www.linkedin.com/in/Aaditya-Pratap-Singh" target="_blank">
