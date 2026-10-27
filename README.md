@@ -36,7 +36,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
     <img src="https://img.shields.io/badge/Codeforces-445FE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a> 
 </div>
-</p>   
+</p>    
 
 ---
 
