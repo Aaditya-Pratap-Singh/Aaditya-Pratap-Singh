@@ -100,7 +100,7 @@ srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Si
 
 <img src="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/main/dark.svg">
 
-</picture>
+</picture> 
 
 </p> 
 
