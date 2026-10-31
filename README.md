@@ -90,7 +90,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 
 <p align="center">
 
-<picture>
+<picture> 
 
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/Aaditya-Pratap-Singh/Aaditya-Pratap-Singh/main/dark.svg">
