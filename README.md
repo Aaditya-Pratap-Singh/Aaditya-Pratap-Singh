@@ -32,7 +32,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
   <a   href="https://leetcode.com/u/Aaditya_Pratap_Singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a> 
-  <a  href="https://codeforces.com/profile/itsaadityasingh10" target="_blank">
+  <a   href="https://codeforces.com/profile/itsaadityasingh10" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445FE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a> 
 </div> 
