@@ -19,7 +19,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 - 💻 Interested in Web Development & Open Source      
 - ⚡ Passionate about Programming     
 - 🎯 Goal: To venture outside one's comfort zone
-
+ 
 ---  
 
 ## 🌐 Connect with Me   
