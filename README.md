@@ -27,7 +27,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/Aaditya-Pratap-Singh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a>
   <a   href="https://leetcode.com/u/Aaditya_Pratap_Singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
