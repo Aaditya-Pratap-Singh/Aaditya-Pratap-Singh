@@ -21,7 +21,7 @@ Sri Aurobindo Institute of Technology, Indore 🇮🇳
 - 🎯 Goal: To venture outside one's comfort zone
   
 ---  
-
+ 
 ## 🌐 Connect with Me 
   
 <div align="center"> 
